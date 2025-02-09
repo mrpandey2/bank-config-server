@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs "
+  contactDetails:
+    name: "QA Developer - QA Lead"
+    email: "QA-Developer@bank.com"
+  onCallSupport:
+    - 265-3765
+    - 734-8371
